@@ -9,6 +9,6 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-width: 949, max-width: 1245) {
+@media only screen and (min-width: 949) and (max-width: 1245) {
   top: 0px;
 }
